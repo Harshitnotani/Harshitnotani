@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitnotani&label=Profile%20views&color=0e75b6&style=flat" alt="harshitnotani" /> </p>
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently learning **GEN AI**
 
 - 📫 How to reach me **hn8745@srmist.edu.in**
 
